@@ -1,0 +1,2 @@
+C:\Users\Honor MagicBook\source\repos\PW_6\PW_6\obj\Debug\PW_6.csprojAssemblyReference.cache
+C:\Users\Honor MagicBook\source\repos\PW_6\PW_6\obj\Debug\PW_6.csproj.CoreCompileInputs.cache
